@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Water"
+        android:id="@+id/water"
+        android:icon="@drawable/baseline_water_24"/>
+    <item android:title="Fire"
+        android:id="@+id/fire"
+        android:icon="@drawable/baseline_local_fire_department_24"/>
+    <item android:title="Air"
+        android:id="@+id/air"
+        android:icon="@drawable/baseline_air_24"/>
+</menu>
